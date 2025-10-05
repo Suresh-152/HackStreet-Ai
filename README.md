@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student-Chatbot
 Get instant answers, guidance, and interactive conversations powered by advanced AI algorithms.
 Get instant answers, guidance, and interactive conversations powered by advanced AI algorithms.
@@ -22,3 +23,7 @@ Front-end Developer
 
 Koyel Sultana
 Front-end Developer
+=======
+# HackStreet-Ai
+This help studdnt or collecting data from online easily
+>>>>>>> 074c6401f5610cc65b5fbc99f53d2165cea35f9e
